@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // The URL of our backend API
-const API_URL = 'http://localhost:5001/api/auth/';
+const API_URL = 'https://blog-api-backend-your-name.vercel.app/api/auth/';
 
 // Register user
 const register = async (userData) => {
