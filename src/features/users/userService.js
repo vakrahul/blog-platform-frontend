@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://blog-api-backend-your-name.vercel.app/api/users/';
+const API_URL = 'https://blog-platform-zeta-henna.vercel.app/api/users/';
 
 // Get a user's public profile
 const getUser = async (userId) => {
